@@ -7,4 +7,4 @@ Use TensorFlow and Keras to build and train neural networks for structured data.
 
 - **SGD_wine_dataset**
 
-SGD and early stopping (against overfitting)
+  SGD and early stopping (against overfitting)
