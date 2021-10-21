@@ -20,3 +20,7 @@ Use TensorFlow and Keras to build and train neural networks for structured data.
 - **concrete_dataset**
 
   Shows how batch normalization can fix problems in training
+
+- **hotel_dataset**
+
+  Binary Classification with best all over the lesson practice
