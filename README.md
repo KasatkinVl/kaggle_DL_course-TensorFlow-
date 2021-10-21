@@ -17,3 +17,6 @@ Use TensorFlow and Keras to build and train neural networks for structured data.
 
   Preprocessor (scikit-learn), SGD and early stopping, Dropout
 
+- **concrete_dataset**
+
+  Shows how batch normalization can fix problems in training
