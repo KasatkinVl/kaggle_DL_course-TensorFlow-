@@ -8,12 +8,12 @@ Use TensorFlow and Keras to build and train neural networks for structured data.
 - **SGD_wine_dataset**
 
   SGD and early stopping (against overfitting)
+  
+- **SGD_wine_dataset2**
+
+  \+ Dropout and batch_norm
 
 - **SGD_spotify_dataset**
 
   Preprocessor (scikit-learn), SGD and early stopping, Dropout
-
-- **SGD_wine_dataset2**
-
-  \+ Dropout and batch_norm
 
