@@ -24,3 +24,7 @@ Use TensorFlow and Keras to build and train neural networks for structured data.
 - **hotel_dataset**
 
   Binary Classification with best all over the lesson practice
+
+- **conv_relu**
+
+  Math example of filtering an image with a convolution and detecting the feature with the ReLU.
